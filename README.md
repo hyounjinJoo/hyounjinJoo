@@ -1,3 +1,7 @@
+![hyounjinJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjinJoo&layout=default&theme=tokyonight&show_icons=true&card_height=195&card_height=200&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyounjinJoo&langs_count=5&layout=default&theme=tokyonight&card_height=200&card_width=1000)
+---
+
 <div align="center">
   <h3>✨ Me ✨</h3>   
 </div>
@@ -26,11 +30,6 @@ I am a persistent individual who is putting in effort day and night without stop
 - 2020.01 ~ 2021.04 : ADRF Korea, Researcher (program development part)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Main Part : FW/Embedded SW development.<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Sub Part : Web page development for controlling ADXD solution.<br>
-
----
-
-![hyounjinJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjinJoo&theme=tokyonight&show_icons=true&card_width=1200)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyounjinJoo&layout=default&theme=tokyonight&card_width=1200)
 
 ---
 
