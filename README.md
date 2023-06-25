@@ -1,5 +1,5 @@
 ![hyounjinJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjinJoo&layout=default&theme=tokyonight&show_icons=true&card_height=195&card_height=200&card_width=1000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyounjinJoo&langs_count=5&layout=default&theme=tokyonight&card_height=200&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyounjinJoo&theme=radical&card_height=200&card_width=1000)
 
 ---
 
