@@ -22,7 +22,7 @@ I am a persistent individual who is putting in effort day and night without stop
 <h3>History</h3>   
 </div>
 - 2023.12 ~ 2024.02 : Developed Virtual Buster in AssortRock Studio<br><br>
-- 2021.07 ~ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : Studying C++, WIN32API, DirectX11, Game Programming at AssortRock Academy<br><br><br>
+- 2021.07 ~ 2023.10 : Studying C++, WIN32API, DirectX11, Game Programming at AssortRock Academy<br><br><br>
 - 2020.08 ~ 2021.01 : Developed ADXD-LPR.<br><br>
 - 2020.05 ~ 2020.09 : Developed a GUI program to control ADXD solutions using C# Winform.<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Developed a Web Site to control ADXD solutions using HTML, CSS, JavaScript.<br><br>
