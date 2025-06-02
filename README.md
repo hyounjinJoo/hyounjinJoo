@@ -1,5 +1,4 @@
 ![hyounjinJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjinJoo&layout=default&theme=tokyonight&show_icons=true&card_height=240&card_width=525)
-[![코드트리|실력진단-hyounjindev1120](https://banner.codetree.ai/v1/banner/hyounjindev1120)](https://www.codetree.ai/profiles/hyounjindev1120)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyounjinJoo&theme=radical&card_height=200&card_width=1000)
 
 ---
